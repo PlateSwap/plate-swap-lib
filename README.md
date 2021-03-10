@@ -1,4 +1,4 @@
-# Bakery Swap Lib
+# PlateSwap Lib
 
 
 Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
@@ -18,5 +18,5 @@ Install this in another project via `yarn add @uniswap/lib`
 Then import the contracts via:
 
 ```solidity
-import "@BakeryProject/bakery-swap-lib/contracts/access/Ownable.sol"; 
+import "@PlateSwap/plate-swap-lib/contracts/access/Ownable.sol"; 
 ```

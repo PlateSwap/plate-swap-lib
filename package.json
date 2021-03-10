@@ -1,14 +1,14 @@
 {
-  "name": "@BakeryProject/bakery-swap-lib",
+  "name": "@PlateSwap/plate-swap-lib",
   "version": "0.0.1",
-  "description": "Bakery Swap Lib",
+  "description": "PlateSwap Lib",
   "files": [
     "contracts",
     "!contracts/test"
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/BakeryProject/bakery-swap-lib.git"
+    "url": "ssh://git@github.com/PlateSwap/plate-swap-lib.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
